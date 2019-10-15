@@ -1,0 +1,20 @@
+.layout-container {
+	font-size: 1em;
+	max-width:960px;
+	border-radius: 5px;
+	margin: auto;
+	position: relative;
+	clear: both
+}
+.region-header {
+  max-width: 960px;
+  margin: 0px;
+  height: 150px;
+}
+.site-logo {
+  float: left;
+  padding-top: 35px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  clear:both;
+  }

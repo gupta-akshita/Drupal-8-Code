@@ -1,0 +1,18 @@
+global-css:
+  version: Version
+  css: 
+    theme:
+      css/elements.css: {}
+      css/layout.css: {}
+      css/navigation.css: {}
+      css/print.css: { media: print }
+pacifico:
+  license:
+    name: SIL Open Font License 1.1
+    url: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
+  css:
+    theme:
+      //fonts.googleapis.com/css?family=Pacifico: { type: external }
+      css/styles.css: {}
+      
+      

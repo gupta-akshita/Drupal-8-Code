@@ -1,0 +1,18 @@
+name: My Great Theme
+type: theme
+description: This is my first theme project
+core: 8.x
+screenshot: mytheme.png
+
+regions: 
+  header: Header
+  mythememenu: Navigation 
+  content: Content
+  footer: Footer
+  page_top: Page top
+  page_bottom: Page bottom
+  
+libraries: 
+  - mytheme/global-css
+  - mytheme/pacifico
+  
